@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    border: 4px solid black;
+    height: 200px;
+    width: 400px;
+    margin: 15% auto;
+    overflow-y: scroll;
+
+}
+div h1{
+    background-color: #818081;
+}
+div .name{
+    background-color: white;
+    padding: 0.4em 0;
+}
+
+.a ,.b,.c,.d{
+    position: sticky;
+    top: 0;
+    
+}
